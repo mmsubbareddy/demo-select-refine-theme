@@ -3,13 +3,6 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -23,7 +16,6 @@
         }
       },
       "block_order": [
-        "heading",
         "button"
       ],
       "settings": {
