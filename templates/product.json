@@ -127,6 +127,7 @@
         "button_rVhApr"
       ],
       "settings": {
+        "image": "{{ product.metafields.custom.metaobjectinfo.value.product_image.value }}",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
