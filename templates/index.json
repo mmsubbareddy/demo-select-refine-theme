@@ -83,8 +83,8 @@
         "button_DbjHM7": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "SHOP T-SHIRTS",
+            "button_link": "shopify:\/\/products\/august-rib-wool-oak",
             "button_style_secondary": false
           }
         }
