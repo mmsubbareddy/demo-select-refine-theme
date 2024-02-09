@@ -4,22 +4,6 @@
     "market": "international"
   },
   "sections": {
-    "image_banner": {
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/03-tops-hover.jpg",
-        "image_2": "shopify:\/\/shop_images\/08-shirts-hover.jpg"
-      },
-      "blocks": {
-      }
-    },
-    "featured_collection": {
-      "disabled": true,
-      "settings": {
-      },
-      "blocks": {
-      }
-    },
     "image_with_text_kbYVMC": {
       "settings": {
         "image": "shopify:\/\/shop_images\/hero-image.webp",

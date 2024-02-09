@@ -57,25 +57,9 @@
         "text_qBqTY",
         "button_DAjXh"
       ]
-    },
-    "image_banner": {
-      "disabled": true,
-      "settings": {
-      },
-      "blocks": {
-      }
-    },
-    "featured_collection": {
-      "disabled": true,
-      "settings": {
-      },
-      "blocks": {
-      }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection",
     "image_with_text_f9UBT"
   ]
 }
