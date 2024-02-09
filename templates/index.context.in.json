@@ -4,5 +4,26 @@
     "market": "in"
   },
   "sections": {
+    "image_banner": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    },
+    "featured_collection": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    },
+    "image_with_text_kbYVMC": {
+      "disabled": false,
+      "settings": {
+      },
+      "blocks": {
+      }
+    }
   }
 }
