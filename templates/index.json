@@ -95,6 +95,7 @@
         "button_DbjHM7"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/hero-image.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
