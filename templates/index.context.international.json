@@ -4,5 +4,13 @@
     "market": "international"
   },
   "sections": {
+    "image_banner": {
+      "settings": {
+        "image": "shopify:\/\/shop_images\/03-tops-hover.jpg",
+        "image_2": "shopify:\/\/shop_images\/08-shirts-hover.jpg"
+      },
+      "blocks": {
+      }
+    }
   }
 }
