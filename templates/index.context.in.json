@@ -17,13 +17,10 @@
       },
       "blocks": {
       }
-    },
-    "image_with_text_kbYVMC": {
-      "disabled": false,
-      "settings": {
-      },
-      "blocks": {
-      }
     }
-  }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection"
+  ]
 }
