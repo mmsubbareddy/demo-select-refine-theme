@@ -46,8 +46,8 @@
           "type": "button",
           "disabled": false,
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "SHOP SHIRTS",
+            "button_link": "shopify:\/\/products\/blue-oxford-shirt",
             "button_style_secondary": false
           }
         }
