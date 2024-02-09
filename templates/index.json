@@ -118,7 +118,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "skin-care",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": true,
