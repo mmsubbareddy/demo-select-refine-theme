@@ -31,6 +31,9 @@
         "text_rxym7E",
         "button_DbjHM7"
       ],
+      "custom_css": [
+        ".inline-richtext a, .rte.inline-richtext a {color: currentColor; text-decoration: none;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hero-image.webp",
         "height": "adapt",
